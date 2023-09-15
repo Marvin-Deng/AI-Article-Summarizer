@@ -1,5 +1,5 @@
 # AI Article-Summarizer
-An AI Article Summarizer for condensing lengthy articles into concise summaries. Simply paste the URL of the article into the search bar and press enter. 
+An AI Article Summarizer for condensing lengthy articles into concise summaries. Simply paste the URL of the article into the search bar and press enter. Made using React.js, Redux, and Tailwind CSS.
 
 ## What I Learned
 - Using Redux Toolkit's RTKQuery to simplify data fetching and state management for API requests
